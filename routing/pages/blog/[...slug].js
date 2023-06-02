@@ -12,4 +12,4 @@ function BlogPostsPage() {
     );
 }
 
-export default BlogPostsPage;
+export default BlogPostsPage; 
